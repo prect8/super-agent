@@ -19,8 +19,8 @@
 
 1. リポジトリをクローン:
 ```bash
-git clone https://github.com/yourusername/ai-assistant.git
-cd ai-assistant
+git clone https://github.com/prect8/super-agent.git
+cd super-agent
 ```
 
 2. 仮想環境を作成して有効化:
@@ -71,4 +71,4 @@ MIT License
 
 ## 作者
 
-Your Name 
+prect8
